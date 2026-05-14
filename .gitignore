@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Jupyter/Colab checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# Large model files 
+models/
+models.zip
+*.bin
+*.pt
+*.h5
+
+# Logs
+*.log
